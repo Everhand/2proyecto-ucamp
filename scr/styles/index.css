@@ -1,0 +1,11 @@
+/*general*/
+body{
+    background-color: rgba(128, 128, 128, 0.471);
+    height: 100vh;
+    width: 100vh;
+}
+/*login*/
+.container-login{
+    height: 100%;
+    width: 100%;
+}
